@@ -7,3 +7,8 @@ In this Part, we covered the below microservices design and development:
 
 ## Architecture Diagram:
 ![Architecture](Architecture.png)
+
+GITHUB Checkin steps
+http://ojitha.blogspot.com/2013/04/how-to-github-projects-in-spring-tool.html
+
+
